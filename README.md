@@ -1,0 +1,2 @@
+# Stockinfo
+Stock prediction model
